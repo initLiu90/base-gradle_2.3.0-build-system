@@ -1,4 +1,4 @@
 The Android Gradle Plugin
 =========================
-
-See http://tools.android.com/build/gradleplugin
+orginal source code
+See https://android.googlesource.com/platform/tools/base/+/gradle_3.1.2
